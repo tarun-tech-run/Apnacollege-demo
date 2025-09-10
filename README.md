@@ -1,3 +1,3 @@
 # Apnacollege-demo
-This is my first git Repository
-Authore- Tarun Kumar
+This is my first git Repository.
+Author- Tarun Kumar

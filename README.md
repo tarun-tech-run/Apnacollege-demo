@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first git Repository.
 <br>
-Author- Tarun Kumar
+Author- Tarun trainee
